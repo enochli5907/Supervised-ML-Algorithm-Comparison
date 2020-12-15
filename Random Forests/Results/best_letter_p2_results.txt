@@ -1,0 +1,18 @@
+Trial 1:
+	Accuracy 93.62% (average over CV test folds)
+	Best Parameters: {'classifier__max_features': 4, 'classifier__n_estimators': 1024}
+	Training Accuracy: 100.00%
+	Test Accuracy: 94.36%
+
+Trial 2:
+	Accuracy 93.90% (average over CV test folds)
+	Best Parameters: {'classifier__max_features': 6, 'classifier__n_estimators': 1024}
+	Training Accuracy: 100.00%
+	Test Accuracy: 94.99%
+
+Trial 3:
+	Accuracy 94.00% (average over CV test folds)
+	Best Parameters: {'classifier__max_features': 6, 'classifier__n_estimators': 1024}
+	Training Accuracy: 100.00%
+	Test Accuracy: 94.31%
+

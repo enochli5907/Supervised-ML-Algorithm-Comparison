@@ -1,0 +1,15 @@
+Runtime for KNN on Adult dataset
+    CPU times: user 1min 24s, sys: 1.44 s, total: 1min 25s
+    Wall time: 3min 48s
+
+Runtime for KNN on Cover dataset
+    CPU times: user 10min 22s, sys: 5.47 s, total: 10min 28s
+    Wall time: 11min 44s
+
+Runtime for KNN on Letter_p1 dataset
+    CPU times: user 8.89 s, sys: 447 ms, total: 9.33 s
+    Wall time: 37.8 s
+    
+Runtime for KNN on Letter_p1 dataset
+    CPU times: user 8.57 s, sys: 477 ms, total: 9.05 s
+    Wall time: 38.6 s

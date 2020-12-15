@@ -1,0 +1,15 @@
+Runtime for Logit on Adult dataset
+    CPU times: user 40.7 s, sys: 9.66 s, total: 50.3 s
+    Wall time: 7min 3s
+    
+Runtime for Logit on Cover dataset
+    CPU times: user 28 s, sys: 1min 35s, total: 2min 3s
+    Wall time: 7min 1s
+
+Runtime for Logit on Letter_p1 dataset
+    CPU times: user 6.43 s, sys: 8.15 s, total: 14.6 s
+    Wall time: 27 s
+
+Runtime for Logit on Letter_p2 dataset
+    CPU times: user 6.31 s, sys: 7.83 s, total: 14.1 s
+    Wall time: 8.99 s

@@ -1,0 +1,18 @@
+Trial 1:
+	Accuracy 96.56% (average over CV test folds)
+	Best Parameters: {'classifier__C': 1e-08, 'classifier__max_iter': 4000, 'classifier__penalty': 'l1', 'classifier__solver': 'saga'}
+	Training Accuracy: 96.56%
+	Test Accuracy: 96.13%
+
+Trial 2:
+	Accuracy 96.20% (average over CV test folds)
+	Best Parameters: {'classifier__C': 1e-08, 'classifier__max_iter': 4000, 'classifier__penalty': 'l1', 'classifier__solver': 'saga'}
+	Training Accuracy: 96.20%
+	Test Accuracy: 96.25%
+
+Trial 3:
+	Accuracy 96.08% (average over CV test folds)
+	Best Parameters: {'classifier__C': 1e-08, 'classifier__max_iter': 4000, 'classifier__penalty': 'l1', 'classifier__solver': 'saga'}
+	Training Accuracy: 96.08%
+	Test Accuracy: 96.29%
+

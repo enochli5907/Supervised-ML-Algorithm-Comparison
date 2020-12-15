@@ -1,0 +1,18 @@
+Trial 1:
+	Accuracy 78.12% (average over CV test folds)
+	Best Parameters: {'classifier__n_neighbors': 4, 'classifier__weights': 'distance'}
+	Training Accuracy: 100.00%
+	Test Accuracy: 78.35%
+
+Trial 2:
+	Accuracy 77.94% (average over CV test folds)
+	Best Parameters: {'classifier__n_neighbors': 10, 'classifier__weights': 'distance'}
+	Training Accuracy: 100.00%
+	Test Accuracy: 77.66%
+
+Trial 3:
+	Accuracy 77.08% (average over CV test folds)
+	Best Parameters: {'classifier__n_neighbors': 10, 'classifier__weights': 'distance'}
+	Training Accuracy: 100.00%
+	Test Accuracy: 78.19%
+

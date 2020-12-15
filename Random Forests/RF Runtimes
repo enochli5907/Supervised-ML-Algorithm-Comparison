@@ -1,0 +1,15 @@
+Runtime for RF on Adult dataset
+    CPU times: user 1min 14s, sys: 1.24 s, total: 1min 15s
+    Wall time: 4min 16s
+
+Runtime for RF on Cover dataset
+    CPU times: user 6min 25s, sys: 1.78 s, total: 6min 27s
+    Wall time: 11min 34s
+
+Runtime for RF on Letter_p1 dataset
+    CPU times: user 41.9 s, sys: 245 ms, total: 42.2 s
+    Wall time: 3min 2s
+
+Runtime for RF on Letter_p2 dataset
+    CPU times: user 1min, sys: 555 ms, total: 1min
+    Wall time: 4min 58s
