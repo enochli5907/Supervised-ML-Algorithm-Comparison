@@ -11,5 +11,6 @@ Below is a breakdown of the folders:
 ## Data
 <details>
   <summary>Click to expand!</summary>
-  * Original Data
+    * Original Data
+    * Help
 </details>
