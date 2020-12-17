@@ -8,7 +8,7 @@ The report can be viewed [here](https://github.com/enochli5907/Supervised-ML-Alg
 
 Below is a breakdown of the folders:
 
-### Data
+[### Data](https://github.com/enochli5907/Supervised-ML-Algorithm-Comparison/tree/readme/Data)
 <details>
   <summary>Click to expand!</summary>
   
