@@ -17,3 +17,14 @@ If scoring=None then the default estimator will be used.
 Pass in nothing and get the accuracy.
 
 Don't pass in scoring='accuracy'
+
+
+3 Algo X 3 datasets x 3 trials
+
+Algo A: test set |XXX YYY ZZZ|
+
+Algo B: test set |XXX YYY ZZZ|
+ 
+Algo C: test set |XXX YYY ZZZ|
+
+ttest_rel() more powerful when calculating t test for a 9 x 9
