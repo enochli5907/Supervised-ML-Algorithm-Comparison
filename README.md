@@ -12,10 +12,10 @@ Below is a breakdown of the folders:
 <details>
   <summary>Click to expand!</summary>
   
-    * Original Data:           - contains the original data files used in this analysis
-    * Data Cleaning.ipynb:     - jupyter notebook used for cleaning
-    * adult_clean.csv:         - the clean adult data set, dropped NaN values and converted to binary values
-    * cover_clean.csv:         - the clean cover data set, converted to binary values
-    * letter_p1.csv:           - the letter_p1 cover data set, converted to binary values - "O" is considered positive and rest is negative
-    * letter_p2.csv:           - the letter_p2 cover data set, converted to binary values - "A-M" is considered positive and rest is negative
+  * Original Data:           - contains the original data files used in this analysis
+  * Data Cleaning.ipynb:     - jupyter notebook used for cleaning
+  * adult_clean.csv:         - the clean adult data set, dropped NaN values and converted to binary values
+  * cover_clean.csv:         - the clean cover data set, converted to binary values
+  * letter_p1.csv:           - the letter_p1 cover data set, converted to binary values - "O" is considered positive and rest is negative
+  * letter_p2.csv:           - the letter_p2 cover data set, converted to binary values - "A-M" is considered positive and rest is negative
 </details>
