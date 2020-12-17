@@ -4,4 +4,4 @@ This is a final report for COGS 118A, Supervised Machine Learning Algorithms at 
 
 This report replicates a part of the analysis done in the paper by [Caruana & Niculescu-Mizil](https://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf).
 
-<embed src="Final Report.pdf" type="application/pdf">
+The report can be viewed [here](https://github.com/enochli5907/Supervised-ML-Algorithm-Comparison/blob/master/Final%20Report.pdf)
